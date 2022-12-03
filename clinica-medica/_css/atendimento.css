@@ -1,0 +1,106 @@
+
+body{
+    
+}
+header#cabecalho{
+    border-bottom: 1px #606060 double;
+    height: 287px;
+    margin: auto;
+    top: 0px;        
+
+}
+
+
+
+section{
+padding: 200px;
+margin: auto;
+}
+
+h1{
+    color: #606060;
+}
+
+
+ h6{
+    color: firebrick;
+}
+span#tCabecalho  {
+    position: absolute;
+    text-align: center;
+    left: 460px;
+    
+
+}
+
+
+span#foto2{
+    left: 465px;  
+    top: 0px;
+    position: absolute;
+   
+
+}
+div#menu{
+   position: relative;
+    height: 150px;
+    width: 150px;      
+    top: -200px;
+    right: 200px;
+}
+
+div#tabela{
+    
+    text-align: center;
+    padding:30px;
+    position: relative;     
+    top: -350px  
+}
+table{
+    font-size: 12pt;
+    box-shadow: 3px 3px 4px #e8e5e5;
+    width: 800px;
+}
+thead{
+   
+    background-color: black;
+    color: white;
+}
+cabeca{
+    background-color: #656565;
+    color: black;
+
+}
+table tr:nth-child(even){
+    background: #e8e5e5;
+     
+}
+table tr:hover td{
+    background: rgb(199, 247, 195);
+    cursor: pointer;
+    
+}
+.td{
+    width:;
+}
+div#iframe{
+    position: relative;
+    top: 100px;
+}
+tfoot{
+    background-color: #656565;
+    color: black;
+    font-size: 18pt;
+    font-style: italic;
+}
+
+
+
+footer#rodape{
+  
+    clear: both;
+    text-align: center;
+    border-top: 1px solid #606060;
+   
+}
+

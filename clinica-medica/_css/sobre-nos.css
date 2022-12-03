@@ -1,0 +1,76 @@
+@charset "UTF-8";
+body{
+    
+}
+header#cabecalho{
+    border-bottom: 1px #606060 double;
+    height: 287px;
+    margin: auto;
+    top: 0px;        
+
+}
+
+
+
+section{
+padding: 200px;
+margin: auto;
+}
+
+h1{
+    color: rgb(11, 157, 57);
+}
+h1#tx{
+    font-size: 20pt;
+}
+
+
+ h6{
+    color:brown;
+}
+span#tCabecalho  {
+    position: absolute;
+    text-align: center;
+    left: 460px;
+    
+
+}
+p#texto1{
+    font-family: cursive;
+    font-size: 20pt;
+}
+
+
+span#foto2{
+    left: 465px;  
+    top: 0px;
+    position: absolute;
+   
+
+}
+div#menu{
+   position: relative;
+    height: 150px;
+    width: 150px;      
+    top: -200px;
+    right: 200px;
+}
+div#texto{
+   
+    text-align: center;
+    padding:10px;
+    position: relative;     
+    top: -200px;    
+}
+
+
+
+
+
+footer#rodape{
+  
+    clear: both;
+    text-align: center;
+    border-top: 1px solid #606060;
+   
+}

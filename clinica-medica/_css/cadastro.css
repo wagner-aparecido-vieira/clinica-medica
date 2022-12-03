@@ -1,0 +1,90 @@
+@charset "UTF-8";
+body{
+    
+}
+header#cabecalho{
+    border-bottom: 1px #606060 double;
+    height: 287px;
+    margin: auto;
+    top: 0px;        
+
+}
+
+
+section{
+padding: 250px;
+margin: auto;
+}
+
+h1{
+    color: blue;
+}
+h1#form{
+    text-align: center;
+}
+p#form{
+    text-align: center;
+    font-size: 14pt;
+    font-style: italic;
+}
+
+
+ h6{
+    color: rgb(101, 152, 239);
+}
+span#tCabecalho  {
+    position: absolute;
+    text-align: center;
+    left: 460px;
+
+}
+
+span#foto2{
+    left: 465px;  
+    top: -5px;
+    position: absolute;
+   
+
+}
+div#menu{
+   position: relative;
+    height: 150px;
+    width: 150px;      
+    top: -200px;
+    right: 200px;
+}
+div#form{   
+    padding:5px;
+    position: relative;     
+    top: -350px;
+   
+   
+}
+form{
+    position:relative;
+    left: 210px;
+}
+fieldset{
+    width: 350px;
+   
+}
+fieldset#sexo{
+    width: 100px;
+}
+div#iframe{
+    padding:150px;
+    position: relative; 
+   right: 40px;    
+}
+input#nr{
+    width: 50px;
+}
+
+footer#rodape{
+  
+    clear: both;
+    text-align: center;
+    border-top: 1px solid #606060;
+   
+   
+}

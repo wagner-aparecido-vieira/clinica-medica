@@ -1,0 +1,90 @@
+@charset "UTF-8";
+body{
+    
+}
+header#cabecalho{
+    border-bottom: 1px #606060 double;
+    height: 200px;
+    margin: auto;
+    top: 0px;        
+
+}
+header#menu{
+    text-align: center;
+
+}
+header#conteudo{
+    text-align: center;
+}
+
+section{
+padding: 200px;
+margin: auto;
+}
+
+h1{
+    color: rgb(231, 16, 34);
+}
+div#textoF{
+    position: relative;
+    top: -350px;
+}
+h3#fim{
+    position: absolute;
+
+    text-align: center;
+}
+
+ h6{
+    color: rgba(16, 24, 29, 0.799);
+}
+span#tCabecalho  {
+    position: absolute;
+    text-align: center;
+    left: 460px;
+    
+
+}
+
+
+span#foto2{
+    left: 465px;  
+    top: 0px;
+    position: absolute;
+   
+
+}
+div#menu{
+   position: relative;
+    height: 150px;
+    width: 150px;      
+    top: -200px;
+    right: 200px;
+}
+div#conteudo{
+    
+    padding:10px;
+    position: relative;     
+    top: -200px;
+     
+   
+    
+}
+.h3{
+    font-style: inherit;
+}
+
+
+footer#rodape{
+  
+    clear: both;
+    text-align: center;
+    border-top: 1px solid #606060;
+   
+}
+img#corpo{
+    position: relative;
+    top: -120px;
+    left: 400px;
+}
+
